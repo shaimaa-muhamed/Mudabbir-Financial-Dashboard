@@ -47,4 +47,4 @@ Through this project, I practiced building a complete financial dashboard from s
 
 ## Live Demo
 
-(View Project)[https://shaimaa-muhamed.github.io/Mudabbir-Financial-Dashboard/]
+[View Project](https://shaimaa-muhamed.github.io/Mudabbir-Financial-Dashboard/)
