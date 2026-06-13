@@ -526,6 +526,7 @@ main {
     }
     /* ! ===========   Transactions ============ */
     .transaction {
+      overflow-x: auto;
       grid-area: transaction;
       padding: var(--card-padding);
 
